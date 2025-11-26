@@ -24,4 +24,4 @@ console.log("I was unsure what javascript was for, so pretty much everything I h
 console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
-console.log("All of the concepts in our javascript class where new to me since this is my first time taking any classes in this field. The most interesting concept to me had to be ");
+console.log("All of the concepts in our javascript class where new to me since this is my first time taking any classes in this field. The most interesting concept to me had to be the event listeners. Even though I am not fully capable of using them, they where the most interesting concept.");
